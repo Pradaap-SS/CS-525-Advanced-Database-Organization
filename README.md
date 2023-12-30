@@ -7,7 +7,8 @@ Databases management systems are a crucial part of most large-scale industry and
 
 The course is highly applied, emphasizing practical skills and habits through a series of programming assignments during which students will develop their own tiny DBMS like engine. We will cover the most important aspects/components of a DBMS: storage and buffer management, indexing, query optimization, query execution, and concurrency control and recovery.
 
-# Instructor: Yousef Elmehdwi
+# Instructor
+Yousef Elmehdwi
 
 # Reading Material
 The following text books will be helpful for following the course and studying the presented material. All four textbooks have their merits, but any one should be sufficient as reading material.
